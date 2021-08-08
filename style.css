@@ -1,0 +1,18 @@
+.timesButtonOne,
+.timesButtonTwo {
+    font-size: 1em;
+    padding: 0px 0.5em 0.2em;
+    color: #919191;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+.accelered {
+    border: 1px solid green;
+    border-radius: 5px;
+    padding: 3px;
+}
+.accelered span{
+    margin-top: 3px;
+}
